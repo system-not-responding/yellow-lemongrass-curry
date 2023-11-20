@@ -38,4 +38,5 @@ With these being taken into account the program returns:
 
 
 Flowchart for the project:
+
 ![tradegate_flowchart](https://github.com/system-not-responding/yellow-lemongrass-curry/assets/51693328/0881aee6-ddd5-4d45-91ab-353520091c57)
